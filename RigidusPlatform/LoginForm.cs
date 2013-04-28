@@ -17,29 +17,35 @@ namespace Rigidus.Platform
         {
             InitializeComponent();
         }
-        private void button1_Click(object sender, EventArgs e)
+        private void button_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text == "" && textBox2.Text == "")
+            Button comp = (Button)sender;
+            if (comp.Name == "btnLogin")
             {
-                MessageBox.Show("No username or password!");
+                if (txtUsername.Text == "" && txtPass.Text == "")
+                {
+                    MessageBox.Show("No username or password!");
+                }
+                else
+                {
+                    if (checkInternet())
+                    {
+                        new MainForm().ShowDialog();
+                    }
+                }
             }
-            if (checkInternet())
+            else if (comp.Name == "btnExit")
             {
-                new MainForm().ShowDialog();
+                Application.Exit();
             }
-
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
         private bool checkInternet()
         {
             try
             {
-                using (WebClient Client = new WebClient())
-                using (var stream = Client.OpenRead("http://www.google.com"))
+                using (WebClient client = new WebClient())
+                using (var stream = client.OpenRead("http://www.google.com"))
                 {
                     return true;
                 }

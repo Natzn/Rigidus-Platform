@@ -37,16 +37,16 @@
             this.hacksToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.newsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hacksToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.friendsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.friendlistToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.searchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.puplicChatToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.coDBOIIToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.coDMW3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.crossfireToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.crossfireEUToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.crossfireNAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.crossfireUKToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.friendsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.friendlistToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.searchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.puplicChatToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,25 +76,25 @@
             // optionsToolStripMenuItem
             // 
             this.optionsToolStripMenuItem.Name = "optionsToolStripMenuItem";
-            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.optionsToolStripMenuItem.Text = "Options";
             // 
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.aboutToolStripMenuItem.Text = "About";
             // 
             // logoutToolStripMenuItem
             // 
             this.logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.logoutToolStripMenuItem.Text = "Logout";
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -110,7 +110,7 @@
             // newsToolStripMenuItem
             // 
             this.newsToolStripMenuItem.Name = "newsToolStripMenuItem";
-            this.newsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.newsToolStripMenuItem.Size = new System.Drawing.Size(106, 22);
             this.newsToolStripMenuItem.Text = "News";
             // 
             // hacksToolStripMenuItem1
@@ -120,8 +120,48 @@
             this.coDMW3ToolStripMenuItem,
             this.crossfireToolStripMenuItem});
             this.hacksToolStripMenuItem1.Name = "hacksToolStripMenuItem1";
-            this.hacksToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.hacksToolStripMenuItem1.Size = new System.Drawing.Size(106, 22);
             this.hacksToolStripMenuItem1.Text = "Hacks";
+            // 
+            // coDBOIIToolStripMenuItem
+            // 
+            this.coDBOIIToolStripMenuItem.Name = "coDBOIIToolStripMenuItem";
+            this.coDBOIIToolStripMenuItem.Size = new System.Drawing.Size(131, 22);
+            this.coDBOIIToolStripMenuItem.Text = "CoD BO II";
+            // 
+            // coDMW3ToolStripMenuItem
+            // 
+            this.coDMW3ToolStripMenuItem.Name = "coDMW3ToolStripMenuItem";
+            this.coDMW3ToolStripMenuItem.Size = new System.Drawing.Size(131, 22);
+            this.coDMW3ToolStripMenuItem.Text = "CoD MW 3";
+            // 
+            // crossfireToolStripMenuItem
+            // 
+            this.crossfireToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.crossfireEUToolStripMenuItem,
+            this.crossfireNAToolStripMenuItem,
+            this.crossfireUKToolStripMenuItem});
+            this.crossfireToolStripMenuItem.Name = "crossfireToolStripMenuItem";
+            this.crossfireToolStripMenuItem.Size = new System.Drawing.Size(131, 22);
+            this.crossfireToolStripMenuItem.Text = "Crossfire";
+            // 
+            // crossfireEUToolStripMenuItem
+            // 
+            this.crossfireEUToolStripMenuItem.Name = "crossfireEUToolStripMenuItem";
+            this.crossfireEUToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
+            this.crossfireEUToolStripMenuItem.Text = "Crossfire EU";
+            // 
+            // crossfireNAToolStripMenuItem
+            // 
+            this.crossfireNAToolStripMenuItem.Name = "crossfireNAToolStripMenuItem";
+            this.crossfireNAToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
+            this.crossfireNAToolStripMenuItem.Text = "Crossfire NA";
+            // 
+            // crossfireUKToolStripMenuItem
+            // 
+            this.crossfireUKToolStripMenuItem.Name = "crossfireUKToolStripMenuItem";
+            this.crossfireUKToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
+            this.crossfireUKToolStripMenuItem.Text = "Crossfire UK";
             // 
             // friendsToolStripMenuItem
             // 
@@ -136,60 +176,20 @@
             // friendlistToolStripMenuItem
             // 
             this.friendlistToolStripMenuItem.Name = "friendlistToolStripMenuItem";
-            this.friendlistToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.friendlistToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.friendlistToolStripMenuItem.Text = "Friendlist";
             // 
             // searchToolStripMenuItem
             // 
             this.searchToolStripMenuItem.Name = "searchToolStripMenuItem";
-            this.searchToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.searchToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.searchToolStripMenuItem.Text = "Search Friend";
             // 
             // puplicChatToolStripMenuItem
             // 
             this.puplicChatToolStripMenuItem.Name = "puplicChatToolStripMenuItem";
-            this.puplicChatToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.puplicChatToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.puplicChatToolStripMenuItem.Text = "Puplic Chat";
-            // 
-            // coDBOIIToolStripMenuItem
-            // 
-            this.coDBOIIToolStripMenuItem.Name = "coDBOIIToolStripMenuItem";
-            this.coDBOIIToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.coDBOIIToolStripMenuItem.Text = "CoD BO II";
-            // 
-            // coDMW3ToolStripMenuItem
-            // 
-            this.coDMW3ToolStripMenuItem.Name = "coDMW3ToolStripMenuItem";
-            this.coDMW3ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.coDMW3ToolStripMenuItem.Text = "CoD MW 3";
-            // 
-            // crossfireToolStripMenuItem
-            // 
-            this.crossfireToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.crossfireEUToolStripMenuItem,
-            this.crossfireNAToolStripMenuItem,
-            this.crossfireUKToolStripMenuItem});
-            this.crossfireToolStripMenuItem.Name = "crossfireToolStripMenuItem";
-            this.crossfireToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.crossfireToolStripMenuItem.Text = "Crossfire";
-            // 
-            // crossfireEUToolStripMenuItem
-            // 
-            this.crossfireEUToolStripMenuItem.Name = "crossfireEUToolStripMenuItem";
-            this.crossfireEUToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.crossfireEUToolStripMenuItem.Text = "Crossfire EU";
-            // 
-            // crossfireNAToolStripMenuItem
-            // 
-            this.crossfireNAToolStripMenuItem.Name = "crossfireNAToolStripMenuItem";
-            this.crossfireNAToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.crossfireNAToolStripMenuItem.Text = "Crossfire NA";
-            // 
-            // crossfireUKToolStripMenuItem
-            // 
-            this.crossfireUKToolStripMenuItem.Name = "crossfireUKToolStripMenuItem";
-            this.crossfireUKToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.crossfireUKToolStripMenuItem.Text = "Crossfire UK";
             // 
             // MainForm
             // 
@@ -198,6 +198,7 @@
             this.ClientSize = new System.Drawing.Size(641, 348);
             this.Controls.Add(this.menuStrip1);
             this.Name = "MainForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Rigidus";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

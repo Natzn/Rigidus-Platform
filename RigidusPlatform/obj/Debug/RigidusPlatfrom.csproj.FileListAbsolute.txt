@@ -22,3 +22,14 @@ C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Pl
 C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\Rigidus.Platform.PatcherForm.resources
 C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\RigidusPlatform.Properties.Resources.resources
 C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\RigidusPlatfrom.csproj.GenerateResource.Cache
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\bin\Debug\RigidusPlatform.exe.config
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\obj\Debug\RigidusPlatform.exe
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\obj\Debug\RigidusPlatform.pdb
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\bin\Debug\RigidusPlatform.exe
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\bin\Debug\RigidusPlatform.pdb
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\obj\Debug\RigidusPlatfrom.csprojResolveAssemblyReference.cache
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\obj\Debug\Rigidus.Platform.LoginForm.resources
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\obj\Debug\Rigidus.Platform.MainForm.resources
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\obj\Debug\Rigidus.Platform.PatcherForm.resources
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\obj\Debug\RigidusPlatform.Properties.Resources.resources
+C:\Users\Marvin\Desktop\Programmierung\Rigidus\RigidusPlatform\obj\Debug\RigidusPlatfrom.csproj.GenerateResource.Cache
