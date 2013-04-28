@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net;
 
 namespace Rigidus.Platform
 {
@@ -16,26 +17,37 @@ namespace Rigidus.Platform
         {
             InitializeComponent();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             if (textBox1.Text == "" && textBox2.Text == "")
             {
                 MessageBox.Show("No username or password!");
             }
-            new MainForm().ShowDialog();
-            
+            if (checkInternet())
+            {
+                new MainForm().ShowDialog();
+            }
+
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
-
+        private bool checkInternet()
+        {
+            try
+            {
+                using (WebClient Client = new WebClient())
+                using (var stream = Client.OpenRead("http://www.google.com"))
+                {
+                    return true;
+                }
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
+}

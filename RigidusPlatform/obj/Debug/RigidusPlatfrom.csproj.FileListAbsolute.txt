@@ -11,3 +11,14 @@ c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\W
 C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\RigidusPlatform\bin\Debug\RigidusPlatform.exe.config
 C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\RigidusPlatform\obj\Debug\RigidusPlatform.exe
 C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\RigidusPlatform\obj\Debug\RigidusPlatform.pdb
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\bin\Debug\RigidusPlatform.exe.config
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\RigidusPlatform.exe
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\RigidusPlatform.pdb
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\bin\Debug\RigidusPlatform.exe
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\bin\Debug\RigidusPlatform.pdb
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\RigidusPlatfrom.csprojResolveAssemblyReference.cache
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\Rigidus.Platform.LoginForm.resources
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\Rigidus.Platform.MainForm.resources
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\Rigidus.Platform.PatcherForm.resources
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\RigidusPlatform.Properties.Resources.resources
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\Rigidus-Platform\RigidusPlatform\obj\Debug\RigidusPlatfrom.csproj.GenerateResource.Cache
