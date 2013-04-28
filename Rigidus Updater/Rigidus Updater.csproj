@@ -44,11 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormUpdater.cs">
+    <Compile Include="UpdaterForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormUpdater.Designer.cs">
-      <DependentUpon>FormUpdater.cs</DependentUpon>
+    <Compile Include="UpdaterForm.Designer.cs">
+      <DependentUpon>UpdaterForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -16,7 +16,7 @@ namespace Rigidus_Updater
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormUpdater());
+            Application.Run(new UpdaterForm());
         }
     }
 }

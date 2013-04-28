@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Rigidus_Updater
 {
-    public partial class FormUpdater : Form
+    public partial class UpdaterForm : Form
     {
-        public FormUpdater()
+        public UpdaterForm()
         {
             InitializeComponent();
         }
