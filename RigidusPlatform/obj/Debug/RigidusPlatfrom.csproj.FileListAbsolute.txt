@@ -1,0 +1,13 @@
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RigidusPlatform.exe.config
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RigidusPlatform.exe
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RigidusPlatform.pdb
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Rigidus.Platform.LoginForm.resources
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Rigidus.Platform.MainForm.resources
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Rigidus.Platform.PatcherForm.resources
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RigidusPlatform.Properties.Resources.resources
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RigidusPlatfrom.csproj.GenerateResource.Cache
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RigidusPlatform.exe
+c:\users\jannik\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RigidusPlatform.pdb
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\RigidusPlatform\bin\Debug\RigidusPlatform.exe.config
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\RigidusPlatform\obj\Debug\RigidusPlatform.exe
+C:\Users\Jannik\Documents\Visual Studio 2012\Projects\RigidusPlatform\RigidusPlatform\obj\Debug\RigidusPlatform.pdb
